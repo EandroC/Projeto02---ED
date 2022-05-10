@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1617755499 source:/home/eandro/Documentos/2020.2/AtividadesED/AP3/AlgoritmosDeOrdenacao/ordenacaoLista.cpp
+	<iostream>
+	<climits>
+	"ordenacaoLista.h"
+
+1617755499 source:/home/eandro/Documentos/2020.2/AtividadesED/AP3/AlgoritmosDeOrdenacao/ordenacaoVetor.cpp
+	<iostream>
+	<fstream>
+	"ordenacaoVetor.h"
+
+1617755499 /home/eandro/Documentos/2020.2/AtividadesED/AP3/AlgoritmosDeOrdenacao/ordenacaoVetor.h
+
+1617755527 source:/home/eandro/Documentos/2020.2/AtividadesED/AP3/AlgoritmosDeOrdenacao/main.cpp
+	<iostream>
+	<sstream>
+	<string>
+	<vector>
+	<time.h>
+	<fstream>
+	<chrono>
+	"ordenacaoVetor.h"
+	"ordenacaoLista.h"
+
+1617755499 /home/eandro/Documentos/2020.2/AtividadesED/AP3/AlgoritmosDeOrdenacao/ordenacaoLista.h
+
